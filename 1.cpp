@@ -1,5 +1,5 @@
-include <iostream>
+#include <iostream>
 using namespace std;
 int main() {
-cout<< «Silence is golden»;
-Return 0; }
+cout<< "Silence is golden";
+return 0; }
