@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main() {
-double a,b;
+double d,f;
 cout<< "Enter the price for 1kg of candies: ";
 cin>>d;
    cout<< "Enter the price for 1 kg of crakers: ";
